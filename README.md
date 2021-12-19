@@ -1,7 +1,7 @@
 **Easy to set up React and Express apps that run simultaneously.**
 *Inspired and done by tutorial of Brad Traversy @TraversyMedia*
 
-*Steps:*
+*Steps:*   
 1: Clone the repo or download it as a zip file.    
 2: Open a terminal in the containing folder.    
 3: Type in: **npm install**  -  *This will install all dependecies for Express*   
