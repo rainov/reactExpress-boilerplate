@@ -1,4 +1,4 @@
-**Easy to set up React and Express apps that run simultaneously.**
+**Easy to set up React and Express apps that run simultaneously.**   
 *Inspired and done by tutorial of Brad Traversy @TraversyMedia*
 
 *Steps:*   
